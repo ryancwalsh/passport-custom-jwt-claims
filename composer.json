@@ -1,5 +1,5 @@
 {
-    "name": "jessicaplant/passport-custom-jwt-claims",
+    "name": "ryancwalsh/passport-custom-jwt-claims",
     "description": "Customize JWT claims in Laravel Passport access tokens",
     "type": "laravel",
     "keywords": [
